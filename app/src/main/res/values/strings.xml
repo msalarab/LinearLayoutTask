@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Linear Layout Task</string>
+    <string name="person_name">Mustafa Sabe Alarab</string>
+    <string name="department">Engineer</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="stars">4.5</string>
+    <string name="location">NL</string>
+    <string name="days">5 Days ago</string>
+    <string name="country">Russian</string>
+    <string name="hours">3 hr</string>
 </resources>
